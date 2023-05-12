@@ -1,16 +1,17 @@
-# covid_19_tracker_app
+# Covid-19 Tracker App
 
-A new Flutter project.
+Covid-19 tracker app is a simple and provides various data like total cases, recovered, deaths active etc. It is made by flutter and dart.</br></br>
+SPLASH SCREENbr/>
+<img src="https://github.com/ranjeetsingh98965/Covid-19-Tracker-App/assets/80505785/1f819396-dfea-46f0-bf9d-30d8bf515a61" width="200" height="400"><br/><br/>
+WORLD's COVID INFORMATION<br/>
+<img src="https://github.com/ranjeetsingh98965/Covid-19-Tracker-App/assets/80505785/1e584bda-a0d2-447b-9953-2898d16a9ab9" width="200" height="400"><br/><br/>
+SELECT COUNTRY<br/>
+<img src="https://github.com/ranjeetsingh98965/Covid-19-Tracker-App/assets/80505785/8c1e1a93-e3eb-4287-93e9-f79f5702885e" width="200" height="400"><br/><br/>
+COUNTRY's COVID INFORMATION<br/>
+<img src="https://github.com/ranjeetsingh98965/Covid-19-Tracker-App/assets/80505785/5f2fa1dc-51c1-4fab-b918-67407a99aede" width="200" height="400"><br/><br/>
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
